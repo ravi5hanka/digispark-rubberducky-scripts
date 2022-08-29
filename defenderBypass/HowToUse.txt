@@ -1,0 +1,2 @@
+This script opens a RUN command window, and disables real time protection of Windows Defender. 
+You may need to adjust time delays as necessary.
