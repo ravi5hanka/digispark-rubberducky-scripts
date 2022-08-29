@@ -1,2 +1,3 @@
 Put Attacker Machine's IP in the code.
 You may need to disable windows defender first.
+Start a netcat listener on port 4444 (nc -lvnp 4444)
